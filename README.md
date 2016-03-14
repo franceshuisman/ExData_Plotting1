@@ -1,3 +1,9 @@
+## Notes from franceshuisman
+
+This repository contains four R scripts and four png files, as described below.
+To run the scripts, please download the Electric Power Consumption file below and unzip it in your working directory.
+
+
 ## Introduction
 
 This assignment uses data from
